@@ -1,0 +1,1261 @@
+[
+  {
+    "event_id": "237336",
+    "name": "Nexus Night - Halloween Release! \ud83d\udc7b\ud83c\udf0c",
+    "date": "2025-10-31",
+    "location": "Otter space",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "196986",
+    "name": "Riftbound TCG Release Event at the Guild Hall!",
+    "date": "2025-10-31",
+    "location": "The Guild Hall",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "193622",
+    "name": "Saturday Afternoon Release Event",
+    "date": "2025-11-01",
+    "location": "Underworld Gaming",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "199204",
+    "name": "Rift bound Release event for Gamers World!",
+    "date": "2025-11-01",
+    "location": "Gamers World, Ireland",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "207462",
+    "name": "Saturday Morning Release Event - Late Registration",
+    "date": "2025-11-01",
+    "location": "ReRoll Games",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "234688",
+    "name": "Saturday Afternoon Nexus Night",
+    "date": "2025-11-01",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "193659",
+    "name": "Sunday Afternoon Release Event",
+    "date": "2025-11-02",
+    "location": "Underworld Gaming",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "196367",
+    "name": "Sunday Afternoon Release Event",
+    "date": "2025-11-02",
+    "location": "Robins Hobby Cafe",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "223233",
+    "name": "Puca Puca Games: Riftbound Sealed Launch Event!",
+    "date": "2025-11-03",
+    "location": "Puca Puca Games",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "202320",
+    "name": "Release Event - Late Registration",
+    "date": "2025-11-06",
+    "location": "Dungeons and Donuts",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "246742",
+    "name": "Otter Nexus Night",
+    "date": "2025-11-06",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "248879",
+    "name": "Thursday Evening Nexus Night",
+    "date": "2025-11-06",
+    "location": "Robins Hobby Cafe",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "254483",
+    "name": "Friday Afternoon Riftbound Open Play",
+    "date": "2025-11-07",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "247882",
+    "name": "Saturday Afternoon Nexus Night",
+    "date": "2025-11-08",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "207469",
+    "name": "Saturday Morning Release Event - Late Registration",
+    "date": "2025-11-08",
+    "location": "ReRoll Games",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "255987",
+    "name": "Saturday Evening Nexus Nights - 1v1",
+    "date": "2025-11-08",
+    "location": "Puca Puca Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "224858",
+    "name": "Monday Evening Nexus Night",
+    "date": "2025-11-10",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "261778",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2025-11-13",
+    "location": "The Trading Post",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "253958",
+    "name": "Otter Nexus Night",
+    "date": "2025-11-13",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "261962",
+    "name": "Thursday Afternoon Nexus Nights - 1v1",
+    "date": "2025-11-13",
+    "location": "Robins Hobby Cafe",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "263629",
+    "name": "Friday Afternoon Nexus Nights - 1v1",
+    "date": "2025-11-14",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "248312",
+    "name": "Sunday Afternoon Nexus Night",
+    "date": "2025-11-16",
+    "location": "Cornerstone Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "232520",
+    "name": "Monday Evening Nexus Night",
+    "date": "2025-11-17",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "253782",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2025-11-17",
+    "location": "Puca Puca Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "246153",
+    "name": "Thursday Evening Nexus Night 1v1",
+    "date": "2025-11-20",
+    "location": "Dungeons and Donuts",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "268289",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2025-11-20",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "272773",
+    "name": "Robin's Thursday Evening Nexus Nights - 1v1",
+    "date": "2025-11-20",
+    "location": "Robins Hobby Cafe",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "275415",
+    "name": "Friday Evening Nexus Nights - 1v1",
+    "date": "2025-11-21",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "272834",
+    "name": "Saturday Afternoon Nexus Nights - 1v1",
+    "date": "2025-11-22",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "277259",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2025-11-23",
+    "location": "Cornerstone Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "278685",
+    "name": "23/11/25 NCG Riftbound Locals",
+    "date": "2025-11-23",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "232522",
+    "name": "Monday Evening Nexus Night",
+    "date": "2025-11-24",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "279910",
+    "name": "Riftbound Weekly PUCA PUCA",
+    "date": "2025-11-24",
+    "location": "Puca Puca Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "264862",
+    "name": "Wednesday Evening Nexus Nights - 1v1",
+    "date": "2025-11-26",
+    "location": "Reboot Gaming Cafe",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "257690",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2025-11-27",
+    "location": "Dungeons and Donuts",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "280231",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2025-11-27",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "272798",
+    "name": "Robin's Thursday Evening Nexus Nights - 1v1",
+    "date": "2025-11-27",
+    "location": "Robins Hobby Cafe",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "285280",
+    "name": "Friday Afternoon Nexus Nights - 1v1",
+    "date": "2025-11-28",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "284486",
+    "name": "Saturday Afternoon Nexus Nights - 1v1",
+    "date": "2025-11-29",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "233257",
+    "name": "Saturday Evening Summoner Skirmish - December",
+    "date": "2025-11-29",
+    "location": "ReRoll Games",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "285310",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2025-11-30",
+    "location": "Cornerstone Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "287481",
+    "name": "Riftbound Locals",
+    "date": "2025-11-30",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "232530",
+    "name": "Monday Evening Nexus Night",
+    "date": "2025-12-01",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "288784",
+    "name": "Riftbound: Nexus Nights",
+    "date": "2025-12-01",
+    "location": "Puca Puca Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "225773",
+    "name": "Wednesday Evening Summoner Skirmish - December",
+    "date": "2025-12-03",
+    "location": "The Guild Hall",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "217970",
+    "name": "Wednesday Evening Summoner Skirmish - December",
+    "date": "2025-12-04",
+    "location": "The Trading Post",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "229399",
+    "name": "Otter Summoner Skirmish - December",
+    "date": "2025-12-04",
+    "location": "Otter space",
+    "tier": "ss",
+    "manual_round_ids": [
+      242536,
+      242537,
+      242538,
+      242539,
+      243407,
+      243408
+    ],
+    "scraped": true
+  },
+  {
+    "event_id": "272800",
+    "name": "Robin's Thursday Evening Nexus Nights - 1v1",
+    "date": "2025-12-04",
+    "location": "Robins Hobby Cafe",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "297584",
+    "name": "Friday Evening Nexus Nights - 1v1",
+    "date": "2025-12-05",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "228863",
+    "name": "Saturday Afternoon Summoner Skirmish - December",
+    "date": "2025-12-06",
+    "location": "Gamers World, Ireland",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "288644",
+    "name": "SUNDAY Afternoon Nexus Locals - 1v1",
+    "date": "2025-12-07",
+    "location": "Sandbox",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "259429",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2025-12-08",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "234956",
+    "name": "Monday Evening Summoner Skirmish - December",
+    "date": "2025-12-08",
+    "location": "Puca Puca Games",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "303923",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2025-12-11",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "213843",
+    "name": "Robin's December Summoner Skirmish",
+    "date": "2025-12-11",
+    "location": "Robins Hobby Cafe",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "297592",
+    "name": "Saturday Afternoon Nexus Nights - 1v1",
+    "date": "2025-12-13",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "306574",
+    "name": "Nexus Night",
+    "date": "2025-12-13",
+    "location": "ReRoll Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "232510",
+    "name": "Sunday Summoner Skirmish - December",
+    "date": "2025-12-14",
+    "location": "Underworld Gaming",
+    "tier": "ss",
+    "manual_round_ids": [
+      279756,
+      279757,
+      279758,
+      279759,
+      280638,
+      280639
+    ],
+    "scraped": true
+  },
+  {
+    "event_id": "307078",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2025-12-14",
+    "location": "Cornerstone Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "307062",
+    "name": "NCG Locals",
+    "date": "2025-12-14",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "273113",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2025-12-15",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "305493",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2025-12-18",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "272816",
+    "name": "Robin's Thursday Evening Nexus night",
+    "date": "2025-12-18",
+    "location": "Robins Hobby Cafe",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "311842",
+    "name": "Friday Evening Nexus Nights - 1v1",
+    "date": "2025-12-19",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "297595",
+    "name": "Saturday Afternoon Nexus Nights - 1v1",
+    "date": "2025-12-20",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "313002",
+    "name": "Saturday Evening Nexus Nights - 1v1",
+    "date": "2025-12-20",
+    "location": "ReRoll Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "207694",
+    "name": "December Summoner Skirmish @Cornerstone Gaming",
+    "date": "2025-12-21",
+    "location": "Cornerstone Gaming",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "235390",
+    "name": "Sunday Afternoon Summoner Skirmish - December",
+    "date": "2025-12-21",
+    "location": "Sandbox",
+    "tier": "ss",
+    "manual_round_ids": [
+      301611,
+      301612,
+      301613,
+      301614,
+      302351,
+      302352
+    ],
+    "scraped": true
+  },
+  {
+    "event_id": "273125",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2025-12-22",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "314429",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2025-12-22",
+    "location": "Puca Puca Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "297599",
+    "name": "Saturday Afternoon Nexus Nights - 1v1",
+    "date": "2025-12-27",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "315294",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2025-12-28",
+    "location": "Cornerstone Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "273130",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2025-12-29",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "319305",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2025-12-29",
+    "location": "Puca Puca Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "297603",
+    "name": "Saturday Afternoon Nexus Nights - 1v1",
+    "date": "2026-01-03",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "324263",
+    "name": "Saturday Evening Nexus Nights - 1v1",
+    "date": "2026-01-03",
+    "location": "ReRoll Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "307958",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-01-05",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "329334",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2026-01-08",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "213847",
+    "name": "Thursday Evening Summoner Skirmish - January",
+    "date": "2026-01-08",
+    "location": "Robins Hobby Cafe",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "297604",
+    "name": "Saturday Afternoon Nexus Nights - 1v1",
+    "date": "2026-01-10",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "229679",
+    "name": "Otter Summoner Skirmish - January",
+    "date": "2026-01-10",
+    "location": "Otter space",
+    "tier": "ss",
+    "manual_round_ids": [
+      345804,
+      345805,
+      345806,
+      345807,
+      347569,
+      347570
+    ],
+    "scraped": true
+  },
+  {
+    "event_id": "332665",
+    "name": "Saturday Evening Nexus Nights - 1v1",
+    "date": "2026-01-10",
+    "location": "ReRoll Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "327609",
+    "name": "Sunday Evening Nexus - 1v1",
+    "date": "2026-01-11",
+    "location": "Sandbox",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "333232",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2026-01-11",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "324956",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-01-12",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "234959",
+    "name": "Monday Evening Summoner Skirmish - January",
+    "date": "2026-01-12",
+    "location": "Puca Puca Games",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "225852",
+    "name": "Wednesday Evening Summoner Skirmish - January",
+    "date": "2026-01-14",
+    "location": "The Guild Hall",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "228604",
+    "name": "Wednesday Evening Summoner Skirmish - January",
+    "date": "2026-01-15",
+    "location": "The Trading Post",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "337231",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2026-01-15",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "336622",
+    "name": "Robins Nexus night",
+    "date": "2026-01-15",
+    "location": "Robins Hobby Cafe",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "233266",
+    "name": "Saturday Evening Summoner Skirmish - January",
+    "date": "2026-01-17",
+    "location": "ReRoll Games",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "339107",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2026-01-18",
+    "location": "Cornerstone Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "307968",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-01-19",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "350320",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2026-01-22",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "232516",
+    "name": "Saturday Summoner Skirmish - January",
+    "date": "2026-01-24",
+    "location": "Underworld Gaming",
+    "tier": "ss",
+    "manual_round_ids": [
+      390662,
+      390663,
+      390664,
+      390665,
+      392335,
+      392336
+    ],
+    "scraped": true
+  },
+  {
+    "event_id": "354847",
+    "name": "Saturday Evening Nexus Nights - 1v1",
+    "date": "2026-01-24",
+    "location": "ReRoll Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "207697",
+    "name": "January Summoner Skirmish @Cornerstone Gaming",
+    "date": "2026-01-25",
+    "location": "Cornerstone Gaming",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "235392",
+    "name": "Sunday Afternoon Summoner Skirmish - January",
+    "date": "2026-01-25",
+    "location": "Sandbox",
+    "tier": "ss",
+    "manual_round_ids": [
+      397237,
+      397238,
+      397239,
+      397240,
+      398216,
+      398217
+    ],
+    "scraped": true
+  },
+  {
+    "event_id": "356872",
+    "name": "Monday Afternoon Nexus Nights - 1v1",
+    "date": "2026-01-26",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "357424",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-01-26",
+    "location": "Puca Puca Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "361364",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2026-01-29",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "363927",
+    "name": "Robin's Thursday Evening Nexus Nights - 1v1",
+    "date": "2026-01-29",
+    "location": "Robins Hobby Cafe",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "297612",
+    "name": "Saturday Afternoon Nexus Nights - 1v1",
+    "date": "2026-01-31",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "361257",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2026-02-01",
+    "location": "Sandbox",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "369884",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2026-02-01",
+    "location": "Northern Card Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "307973",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-02-02",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "371583",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-02-02",
+    "location": "Puca Puca Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "342598",
+    "name": "Tuesday Evening Nexus Nights - 1v1",
+    "date": "2026-02-03",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "378268",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2026-02-05",
+    "location": "Dungeons and Donuts",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "378797",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2026-02-05",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "224759",
+    "name": "Saturday Afternoon Spiritforged Pre-Rift Event",
+    "date": "2026-02-07",
+    "location": "Underworld Gaming",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "283792",
+    "name": "Saturday Afternoon Spiritforged Pre-Rift Event",
+    "date": "2026-02-07",
+    "location": "Otter space",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "234966",
+    "name": "Saturday Morning Spiritforged Pre-Rift Event",
+    "date": "2026-02-07",
+    "location": "Puca Puca Games",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "234696",
+    "name": "Saturday Afternoon Spiritforged Pre-Rift Event",
+    "date": "2026-02-07",
+    "location": "Northern Card Gaming",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "213836",
+    "name": "Saturday Afternoon Spiritforged Pre-Rift Event",
+    "date": "2026-02-07",
+    "location": "Robins Hobby Cafe",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "225794",
+    "name": "Sunday Afternoon Spiritforged Pre-Rift Event",
+    "date": "2026-02-08",
+    "location": "ReRoll Games",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "213226",
+    "name": "Sunday Afternoon Spiritforged Pre-Rift Event",
+    "date": "2026-02-08",
+    "location": "Cornerstone Gaming",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "292937",
+    "name": "Sunday Afternoon Spiritforged Pre-Rift Event",
+    "date": "2026-02-08",
+    "location": "Sandbox",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "329632",
+    "name": "PreRift event 2",
+    "date": "2026-02-08",
+    "location": "Robins Hobby Cafe",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "307975",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-02-09",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "342609",
+    "name": "Tuesday Evening Nexus Nights - 1v1",
+    "date": "2026-02-10",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "224094",
+    "name": "Wednesday evening Spiritforged Pre-Rift Event",
+    "date": "2026-02-11",
+    "location": "The Guild Hall",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "224091",
+    "name": "Thursday Evening Spiritforged Pre-Rift Event",
+    "date": "2026-02-12",
+    "location": "The Trading Post",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "379194",
+    "name": "Spiritforged - Leftover Pre-Rift (Thursday)",
+    "date": "2026-02-12",
+    "location": "Otter space",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "384869",
+    "name": "Spiritforged Modified Champion Release Event",
+    "date": "2026-02-15",
+    "location": "Cornerstone Gaming",
+    "tier": "release",
+    "scraped": true
+  },
+  {
+    "event_id": "394179",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2026-02-15",
+    "location": "Sandbox",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "307978",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-02-16",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "399130",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-02-16",
+    "location": "Puca Puca Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "342729",
+    "name": "Tuesday Evening Nexus Nights - 1v1",
+    "date": "2026-02-17",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "401004",
+    "name": "Wednesday Evening Nexus Nights - 1v1",
+    "date": "2026-02-18",
+    "location": "The Guild Hall",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "404923",
+    "name": "Thursday Evening Nexus Nights - 1v1",
+    "date": "2026-02-19",
+    "location": "Dungeons and Donuts",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "408873",
+    "name": "Saturday Evening Nexus Nights - 1v1",
+    "date": "2026-02-21",
+    "location": "Cornerstone Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "307976",
+    "name": "Monday Evening Nexus Nights - 1v1",
+    "date": "2026-02-23",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "419746",
+    "name": "Thursday Afternoon Nexus Nights - 1v1",
+    "date": "2026-02-26",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "424269",
+    "name": "Saturday Evening Nexus Nights - 1v1",
+    "date": "2026-02-28",
+    "location": "ReRoll Games",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "422219",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2026-03-01",
+    "location": "Sandbox",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "392427",
+    "name": "Monday Nexus Night at Underworld Gaming",
+    "date": "2026-03-02",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "253805",
+    "name": "Monday Evening Summoner Skirmish - March",
+    "date": "2026-03-02",
+    "location": "Puca Puca Games",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "430143",
+    "name": "Tuesday Evening Nexus Nights - 1v1",
+    "date": "2026-03-03",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "435026",
+    "name": "Thursday Afternoon Nexus Nights - 1v1",
+    "date": "2026-03-05",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "213855",
+    "name": "Thursday Evening Summoner Skirmish - March",
+    "date": "2026-03-05",
+    "location": "Robins Hobby Cafe",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "273041",
+    "name": "Saturday Afternoon Summoner Skirmish - March",
+    "date": "2026-03-07",
+    "location": "Gamers World, Ireland",
+    "tier": "ss",
+    "manual_round_ids": [
+      542223,
+      542224,
+      542225,
+      542226,
+      543721,
+      543722,
+      543723
+    ],
+    "scraped": true
+  },
+  {
+    "event_id": "283815",
+    "name": "Saturday Afternoon Summoner Skirmish - March",
+    "date": "2026-03-07",
+    "location": "Otter space",
+    "tier": "ss",
+    "manual_round_ids": [
+      542484,
+      542485,
+      542486,
+      542487,
+      542488,
+      545109,
+      545110,
+      545111
+    ],
+    "scraped": true
+  },
+  {
+    "event_id": "274079",
+    "name": "Saturday Evening Summoner Skirmish - March",
+    "date": "2026-03-07",
+    "location": "ReRoll Games",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "439052",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2026-03-08",
+    "location": "Dungeons and Donuts",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "254443",
+    "name": "Sunday Afternoon Summoner Skirmish - March",
+    "date": "2026-03-08",
+    "location": "Cornerstone Gaming",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "438822",
+    "name": "Sunday Afternoon Nexus Nights - 1v1",
+    "date": "2026-03-08",
+    "location": "Sandbox",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "392425",
+    "name": "Monday Nexus Night at Underworld Gaming",
+    "date": "2026-03-09",
+    "location": "Underworld Gaming",
+    "tier": "locals",
+    "scraped": true
+  },
+  {
+    "event_id": "430142",
+    "name": "Tuesday Evening Nexus Nights - 1v1",
+    "date": "2026-03-10",
+    "location": "Gamers World, Ireland",
+    "tier": "locals",
+    "scraped": true
+  }
+]
