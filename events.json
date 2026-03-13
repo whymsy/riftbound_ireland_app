@@ -1257,5 +1257,21 @@
     "location": "Gamers World, Ireland",
     "tier": "locals",
     "scraped": true
+  },
+  {
+    "event_id": "284545",
+    "name": "Thursday Evening Summoner Skirmish - March",
+    "date": "2026-03-12",
+    "location": "The Trading Post",
+    "tier": "ss",
+    "scraped": true
+  },
+  {
+    "event_id": "449311",
+    "name": "Thursday Afternoon Nexus Nights - 1 v 1",
+    "date": "2026-03-12",
+    "location": "Otter space",
+    "tier": "locals",
+    "scraped": true
   }
 ]

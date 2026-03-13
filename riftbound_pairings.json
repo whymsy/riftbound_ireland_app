@@ -37237,5 +37237,626 @@
         "ogw": 0.4702381
       }
     ]
+  },
+  {
+    "event_id": "284545",
+    "name": "Thursday Evening Summoner Skirmish - March",
+    "date": "2026-03-12",
+    "tier": "ss",
+    "location": "The Trading Post",
+    "n_rounds": 3,
+    "rounds": [
+      {
+        "round": 1,
+        "pairings": [
+          {
+            "p1_id": "111196",
+            "p1": "PabloY",
+            "p2_id": "262976",
+            "p2": "uevyf o",
+            "result": "p2"
+          },
+          {
+            "p1_id": "167062",
+            "p1": "Facilier",
+            "p2_id": "264785",
+            "p2": "Ozzie",
+            "result": "draw"
+          }
+        ]
+      },
+      {
+        "round": 2,
+        "pairings": [
+          {
+            "p1_id": "264785",
+            "p1": "Ozzie",
+            "p2_id": "262976",
+            "p2": "uevyf o",
+            "result": "p2"
+          },
+          {
+            "p1_id": "111196",
+            "p1": "PabloY",
+            "p2_id": "167062",
+            "p2": "Facilier",
+            "result": "p2"
+          }
+        ]
+      },
+      {
+        "round": 3,
+        "pairings": [
+          {
+            "p1_id": "167062",
+            "p1": "Facilier",
+            "p2_id": "262976",
+            "p2": "uevyf o",
+            "result": "p1"
+          },
+          {
+            "p1_id": "111196",
+            "p1": "PabloY",
+            "p2_id": "264785",
+            "p2": "Ozzie",
+            "result": "draw"
+          }
+        ]
+      }
+    ],
+    "standings": [
+      {
+        "player_id": "167062",
+        "name": "Facilier",
+        "rank": 1,
+        "record": "2-0-1",
+        "points": 7,
+        "omw": 0.44222222,
+        "gw": 0.76190476,
+        "ogw": 0.43627866
+      },
+      {
+        "player_id": "262976",
+        "name": "uevyf o",
+        "rank": 2,
+        "record": "2-1-0",
+        "points": 6,
+        "omw": 0.47925926,
+        "gw": 0.57142857,
+        "ogw": 0.49977072
+      },
+      {
+        "player_id": "264785",
+        "name": "Ozzie",
+        "rank": 3,
+        "record": "0-1-2",
+        "points": 2,
+        "omw": 0.59148148,
+        "gw": 0.40740741,
+        "ogw": 0.55444444
+      },
+      {
+        "player_id": "111196",
+        "name": "PabloY",
+        "rank": 4,
+        "record": "0-2-1",
+        "points": 1,
+        "omw": 0.59148148,
+        "gw": 0.33,
+        "ogw": 0.58024691
+      }
+    ]
+  },
+  {
+    "event_id": "449311",
+    "name": "Thursday Afternoon Nexus Nights - 1 v 1",
+    "date": "2026-03-12",
+    "tier": "locals",
+    "location": "Otter space",
+    "n_rounds": 4,
+    "rounds": [
+      {
+        "round": 1,
+        "pairings": [
+          {
+            "p1_id": "106717",
+            "p1": "Whymsy",
+            "p2_id": "230885",
+            "p2": "Xenolot",
+            "result": "p1"
+          },
+          {
+            "p1_id": "108920",
+            "p1": "Feralhedgehog",
+            "p2_id": "71517",
+            "p2": "RIFTLAB Jakub",
+            "result": "p2"
+          },
+          {
+            "p1_id": "172387",
+            "p1": "Reggie",
+            "p2_id": "93720",
+            "p2": "Topazgoose",
+            "result": "p2"
+          },
+          {
+            "p1_id": "93717",
+            "p1": "Soulcatcher",
+            "p2_id": "286770",
+            "p2": "VexJ",
+            "result": "draw"
+          },
+          {
+            "p1_id": "91536",
+            "p1": "Nannerman",
+            "p2_id": "241972",
+            "p2": "BRone",
+            "result": "p1"
+          },
+          {
+            "p1_id": "84785",
+            "p1": "CeeJay",
+            "p2_id": "288588",
+            "p2": "Starkader",
+            "result": "p1"
+          },
+          {
+            "p1_id": "260746",
+            "p1": "MuffinicK",
+            "p2_id": "84784",
+            "p2": "KubaKhorne",
+            "result": "p2"
+          },
+          {
+            "p1_id": "230724",
+            "p1": "Alex Banana",
+            "p2_id": "84777",
+            "p2": "N\u00b5ge",
+            "result": "p2"
+          },
+          {
+            "p1_id": "244002",
+            "p1": "N\u0131all",
+            "p2_id": "84779",
+            "p2": "Jernney",
+            "result": "p2"
+          },
+          {
+            "p1_id": "282627",
+            "p1": "Lunastra",
+            "p2_id": "84782",
+            "p2": "FBomB11",
+            "result": "draw"
+          }
+        ]
+      },
+      {
+        "round": 2,
+        "pairings": [
+          {
+            "p1_id": "84785",
+            "p1": "CeeJay",
+            "p2_id": "84779",
+            "p2": "Jernney",
+            "result": "p2"
+          },
+          {
+            "p1_id": "84784",
+            "p1": "KubaKhorne",
+            "p2_id": "106717",
+            "p2": "Whymsy",
+            "result": "p2"
+          },
+          {
+            "p1_id": "93720",
+            "p1": "Topazgoose",
+            "p2_id": "84777",
+            "p2": "N\u00b5ge",
+            "result": "p2"
+          },
+          {
+            "p1_id": "91536",
+            "p1": "Nannerman",
+            "p2_id": "71517",
+            "p2": "RIFTLAB Jakub",
+            "result": "p2"
+          },
+          {
+            "p1_id": "84782",
+            "p1": "FBomB11",
+            "p2_id": "286770",
+            "p2": "VexJ",
+            "result": "p1"
+          },
+          {
+            "p1_id": "93717",
+            "p1": "Soulcatcher",
+            "p2_id": "282627",
+            "p2": "Lunastra",
+            "result": "p1"
+          },
+          {
+            "p1_id": "230724",
+            "p1": "Alex Banana",
+            "p2_id": "241972",
+            "p2": "BRone",
+            "result": "draw"
+          },
+          {
+            "p1_id": "172387",
+            "p1": "Reggie",
+            "p2_id": "244002",
+            "p2": "N\u0131all",
+            "result": "p2"
+          },
+          {
+            "p1_id": "260746",
+            "p1": "MuffinicK",
+            "p2_id": "230885",
+            "p2": "Xenolot",
+            "result": "p1"
+          },
+          {
+            "p1_id": "108920",
+            "p1": "Feralhedgehog",
+            "p2_id": "288588",
+            "p2": "Starkader",
+            "result": "p2"
+          }
+        ]
+      },
+      {
+        "round": 3,
+        "pairings": [
+          {
+            "p1_id": "106717",
+            "p1": "Whymsy",
+            "p2_id": "84777",
+            "p2": "N\u00b5ge",
+            "result": "p2"
+          },
+          {
+            "p1_id": "71517",
+            "p1": "RIFTLAB Jakub",
+            "p2_id": "84779",
+            "p2": "Jernney",
+            "result": "p1"
+          },
+          {
+            "p1_id": "84782",
+            "p1": "FBomB11",
+            "p2_id": "93717",
+            "p2": "Soulcatcher",
+            "result": "p2"
+          },
+          {
+            "p1_id": "93720",
+            "p1": "Topazgoose",
+            "p2_id": "91536",
+            "p2": "Nannerman",
+            "result": "p2"
+          },
+          {
+            "p1_id": "260746",
+            "p1": "MuffinicK",
+            "p2_id": "244002",
+            "p2": "N\u0131all",
+            "result": "p1"
+          },
+          {
+            "p1_id": "84785",
+            "p1": "CeeJay",
+            "p2_id": "84784",
+            "p2": "KubaKhorne",
+            "result": "p1"
+          },
+          {
+            "p1_id": "288588",
+            "p1": "Starkader",
+            "p2_id": "282627",
+            "p2": "Lunastra",
+            "result": "p2"
+          },
+          {
+            "p1_id": "241972",
+            "p1": "BRone",
+            "p2_id": "286770",
+            "p2": "VexJ",
+            "result": "p2"
+          },
+          {
+            "p1_id": "172387",
+            "p1": "Reggie",
+            "p2_id": "230724",
+            "p2": "Alex Banana",
+            "result": "p1"
+          },
+          {
+            "p1_id": "230885",
+            "p1": "Xenolot",
+            "p2_id": "108920",
+            "p2": "Feralhedgehog",
+            "result": "p1"
+          }
+        ]
+      },
+      {
+        "round": 4,
+        "pairings": [
+          {
+            "p1_id": "84777",
+            "p1": "N\u00b5ge",
+            "p2_id": "71517",
+            "p2": "RIFTLAB Jakub",
+            "result": "p2"
+          },
+          {
+            "p1_id": "84779",
+            "p1": "Jernney",
+            "p2_id": "93717",
+            "p2": "Soulcatcher",
+            "result": "draw"
+          },
+          {
+            "p1_id": "91536",
+            "p1": "Nannerman",
+            "p2_id": "106717",
+            "p2": "Whymsy",
+            "result": "p2"
+          },
+          {
+            "p1_id": "84785",
+            "p1": "CeeJay",
+            "p2_id": "260746",
+            "p2": "MuffinicK",
+            "result": "p1"
+          },
+          {
+            "p1_id": "93720",
+            "p1": "Topazgoose",
+            "p2_id": "84782",
+            "p2": "FBomB11",
+            "result": "p1"
+          },
+          {
+            "p1_id": "286770",
+            "p1": "VexJ",
+            "p2_id": "282627",
+            "p2": "Lunastra",
+            "result": "draw"
+          },
+          {
+            "p1_id": "84784",
+            "p1": "KubaKhorne",
+            "p2_id": "244002",
+            "p2": "N\u0131all",
+            "result": "p1"
+          },
+          {
+            "p1_id": "288588",
+            "p1": "Starkader",
+            "p2_id": "230885",
+            "p2": "Xenolot",
+            "result": "p2"
+          },
+          {
+            "p1_id": "241972",
+            "p1": "BRone",
+            "p2_id": "172387",
+            "p2": "Reggie",
+            "result": "p2"
+          },
+          {
+            "p1_id": "108920",
+            "p1": "Feralhedgehog",
+            "p2_id": "230724",
+            "p2": "Alex Banana",
+            "result": "p1"
+          }
+        ]
+      }
+    ],
+    "standings": [
+      {
+        "player_id": "71517",
+        "name": "RIFTLAB Jakub",
+        "rank": 1,
+        "record": "4-0-0",
+        "points": 12,
+        "omw": 0.54083333,
+        "gw": 0.88888889,
+        "ogw": 0.49675926
+      },
+      {
+        "player_id": "84777",
+        "name": "N\u00b5ge",
+        "rank": 2,
+        "record": "3-1-0",
+        "points": 9,
+        "omw": 0.645,
+        "gw": 0.59259259,
+        "ogw": 0.62037879
+      },
+      {
+        "player_id": "106717",
+        "name": "Whymsy",
+        "rank": 3,
+        "record": "3-1-0",
+        "points": 9,
+        "omw": 0.5625,
+        "gw": 0.77777778,
+        "ogw": 0.48400673
+      },
+      {
+        "player_id": "84785",
+        "name": "CeeJay",
+        "rank": 4,
+        "record": "3-1-0",
+        "points": 9,
+        "omw": 0.47833333,
+        "gw": 0.66666667,
+        "ogw": 0.45277777
+      },
+      {
+        "player_id": "93717",
+        "name": "Soulcatcher",
+        "rank": 5,
+        "record": "2-0-2",
+        "points": 8,
+        "omw": 0.4375,
+        "gw": 0.66666667,
+        "ogw": 0.46700337
+      },
+      {
+        "player_id": "84779",
+        "name": "Jernney",
+        "rank": 6,
+        "record": "2-1-1",
+        "points": 7,
+        "omw": 0.68666667,
+        "gw": 0.53333333,
+        "ogw": 0.64646465
+      },
+      {
+        "player_id": "91536",
+        "name": "Nannerman",
+        "rank": 7,
+        "record": "2-2-0",
+        "points": 6,
+        "omw": 0.645,
+        "gw": 0.44444444,
+        "ogw": 0.62037879
+      },
+      {
+        "player_id": "84784",
+        "name": "KubaKhorne",
+        "rank": 8,
+        "record": "2-2-0",
+        "points": 6,
+        "omw": 0.5825,
+        "gw": 0.44444444,
+        "ogw": 0.5770202
+      },
+      {
+        "player_id": "93720",
+        "name": "Topazgoose",
+        "rank": 9,
+        "record": "2-2-0",
+        "points": 6,
+        "omw": 0.52083333,
+        "gw": 0.48484848,
+        "ogw": 0.50774411
+      },
+      {
+        "player_id": "260746",
+        "name": "MuffinicK",
+        "rank": 10,
+        "record": "2-2-0",
+        "points": 6,
+        "omw": 0.52,
+        "gw": 0.5,
+        "ogw": 0.48232323
+      },
+      {
+        "player_id": "230885",
+        "name": "Xenolot",
+        "rank": 11,
+        "record": "2-2-0",
+        "points": 6,
+        "omw": 0.4775,
+        "gw": 0.45454545,
+        "ogw": 0.50694445
+      },
+      {
+        "player_id": "172387",
+        "name": "Reggie",
+        "rank": 12,
+        "record": "2-2-0",
+        "points": 6,
+        "omw": 0.3725,
+        "gw": 0.6,
+        "ogw": 0.37712121
+      },
+      {
+        "player_id": "286770",
+        "name": "VexJ",
+        "rank": 13,
+        "record": "1-1-2",
+        "points": 5,
+        "omw": 0.43666667,
+        "gw": 0.53333333,
+        "ogw": 0.44950337
+      },
+      {
+        "player_id": "282627",
+        "name": "Lunastra",
+        "rank": 14,
+        "record": "1-1-2",
+        "points": 5,
+        "omw": 0.43666667,
+        "gw": 0.40740741,
+        "ogw": 0.48181818
+      },
+      {
+        "player_id": "84782",
+        "name": "FBomB11",
+        "rank": 15,
+        "record": "1-2-1",
+        "points": 4,
+        "omw": 0.5,
+        "gw": 0.39393939,
+        "ogw": 0.52306397
+      },
+      {
+        "player_id": "108920",
+        "name": "Feralhedgehog",
+        "rank": 16,
+        "record": "1-3-0",
+        "points": 3,
+        "omw": 0.54,
+        "gw": 0.41666667,
+        "ogw": 0.50169192
+      },
+      {
+        "player_id": "244002",
+        "name": "N\u0131all",
+        "rank": 17,
+        "record": "1-3-0",
+        "points": 3,
+        "omw": 0.52083333,
+        "gw": 0.36363636,
+        "ogw": 0.51944444
+      },
+      {
+        "player_id": "288588",
+        "name": "Starkader",
+        "rank": 18,
+        "record": "1-3-0",
+        "points": 3,
+        "omw": 0.49916667,
+        "gw": 0.33333333,
+        "ogw": 0.48632155
+      },
+      {
+        "player_id": "230724",
+        "name": "Alex Banana",
+        "rank": 19,
+        "record": "0-3-1",
+        "points": 1,
+        "omw": 0.4775,
+        "gw": 0.33,
+        "ogw": 0.48481482
+      },
+      {
+        "player_id": "241972",
+        "name": "BRone",
+        "rank": 20,
+        "record": "0-3-1",
+        "points": 1,
+        "omw": 0.43666667,
+        "gw": 0.33,
+        "ogw": 0.47694444
+      }
+    ]
   }
 ]
